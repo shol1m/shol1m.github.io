@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockctf on Sholim</title>
+    <link>//localhost:1313/categories/blockctf/</link>
+    <description>Recent content in Blockctf on Sholim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sholim</copyright>
+    <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blockctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juggl3r</title>
+      <link>//localhost:1313/posts/juggl3r/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/juggl3r/</guid>
+      <description>Juggler challenge from blockctf</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/juggl3r/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
