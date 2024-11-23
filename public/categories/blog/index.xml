@@ -2,60 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Sholim</title>
-    <link>//localhost:1313/categories/blog/</link>
+    <link>http://localhost:1313/categories/blog/</link>
     <description>Recent content in Blog on Sholim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Sholim</copyright>
-    <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flow</title>
+      <link>http://localhost:1313/posts/flow/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/flow/</guid>
+      <description>P3rf3ctr00tCTF pwn chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flow/cover.png" />
+    </item>
+    
+    <item>
+      <title>Pores</title>
+      <link>http://localhost:1313/posts/pores/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/pores/</guid>
+      <description>P3rf3ctr00t CTF rev chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pores/cover.png" />
+    </item>
+    
+    <item>
+      <title>tGIF</title>
+      <link>http://localhost:1313/posts/tgif/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tgif/</guid>
+      <description>P3rf3ctr00tCTF misc chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tgif/cover.png" />
+    </item>
+    
     <item>
       <title>Juggl3r</title>
-      <link>//localhost:1313/posts/juggl3r/</link>
+      <link>http://localhost:1313/posts/juggl3r/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/juggl3r/</guid>
+      <guid>http://localhost:1313/posts/juggl3r/</guid>
       <description>Juggler challenge from blockctf</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/juggl3r/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/juggl3r/cover.png" />
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-four/</link>
+      <link>http://localhost:1313/posts/post-lite-four/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-four/</guid>
+      <guid>http://localhost:1313/posts/post-lite-four/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-four/cover.png" />
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-one/</link>
+      <link>http://localhost:1313/posts/post-lite-one/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-one/</guid>
+      <guid>http://localhost:1313/posts/post-lite-one/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-one/cover.png" />
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-three/</link>
+      <link>http://localhost:1313/posts/post-lite-three/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-three/</guid>
+      <guid>http://localhost:1313/posts/post-lite-three/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-three/cover.png" />
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-two/</link>
+      <link>http://localhost:1313/posts/post-lite-two/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-two/</guid>
+      <guid>http://localhost:1313/posts/post-lite-two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-two/cover.png" />
     </item>
     
   </channel>

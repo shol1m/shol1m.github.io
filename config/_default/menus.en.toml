@@ -26,9 +26,9 @@
   weight = 20
 
 [[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/kevin-kimaiyo-29531a205"
   weight = 40
 
 [[main]]

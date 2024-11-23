@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P3rf3ctr00tCTF on Sholim</title>
+    <link>http://localhost:1313/categories/p3rf3ctr00tctf/</link>
+    <description>Recent content in P3rf3ctr00tCTF on Sholim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sholim</copyright>
+    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/p3rf3ctr00tctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flow</title>
+      <link>http://localhost:1313/posts/flow/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/flow/</guid>
+      <description>P3rf3ctr00tCTF pwn chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flow/cover.png" />
+    </item>
+    
+    <item>
+      <title>Pores</title>
+      <link>http://localhost:1313/posts/pores/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/pores/</guid>
+      <description>P3rf3ctr00t CTF rev chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pores/cover.png" />
+    </item>
+    
+    <item>
+      <title>tGIF</title>
+      <link>http://localhost:1313/posts/tgif/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tgif/</guid>
+      <description>P3rf3ctr00tCTF misc chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tgif/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
