@@ -28,35 +28,5 @@
       
     </item>
     
-    <item>
-      <title>Ipsum</title>
-      <link>http://localhost:1313/tags/ipsum/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ipsum/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lorem</title>
-      <link>http://localhost:1313/tags/lorem/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/lorem/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post</title>
-      <link>http://localhost:1313/tags/post/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/post/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

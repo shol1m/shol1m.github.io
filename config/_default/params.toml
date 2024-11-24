@@ -80,13 +80,13 @@ mainSections = ["posts"]
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCs8rsqIOoCbQOEWfH_135jv-XnhMsf0Es"
+  authDomain = "kkjv-53cc5.firebaseapp.com"
+  projectId = "kkjv-53cc5"
+  storageBucket = "kkjv-53cc5.firebasestorage.app"
+  messagingSenderId = "1040192882847"
+  appId = "1:1040192882847:web:d23294498bd3de797d3aaa"
+  measurementId = "G-J3LXZEG4WP"
 
 [fathomAnalytics]
   # site = "ABC12345"

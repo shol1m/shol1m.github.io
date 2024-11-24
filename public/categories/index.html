@@ -135,6 +135,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCs8rsqIOoCbQOEWfH_135jv-XnhMsf0Es",
+      authDomain: "AIzaSyCs8rsqIOoCbQOEWfH_135jv-XnhMsf0Es",
+      projectId: "kkjv-53cc5",
+      storageBucket: "kkjv-53cc5.firebasestorage.app",
+      messagingSenderId: "1040192882847",
+      appId: "1:1040192882847:web:d23294498bd3de797d3aaa",
+      measurementId: "G-J3LXZEG4WP"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
@@ -615,7 +638,7 @@
       
         <span class="px-2 text-base text-primary-500">&middot;</span>
         <span class="text-base text-neutral-400">
-          8
+          4
         </span>
       
     </h2>
@@ -632,22 +655,6 @@
         <span class="px-2 text-base text-primary-500">&middot;</span>
         <span class="text-base text-neutral-400">
           3
-        </span>
-      
-    </h2>
-  </article>
-    
-      <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
-    <h2 class="flex items-center">
-      <a
-        class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
-        href="/categories/post/"
-        >Post</a
-      >
-      
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
-          4
         </span>
       
     </h2>
