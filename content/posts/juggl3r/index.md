@@ -2,7 +2,7 @@
 title: "Juggl3r"
 summary: "Juggler challenge from blockctf"
 categories: ["Blockctf","Blog",]
-tags: ["Blockctf"]
+tags: ["Blockctf","web"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-18

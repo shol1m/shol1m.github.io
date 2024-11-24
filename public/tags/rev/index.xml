@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rev on Sholim</title>
+    <link>http://localhost:1313/tags/rev/</link>
+    <description>Recent content in Rev on Sholim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sholim</copyright>
+    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pores</title>
+      <link>http://localhost:1313/posts/pores/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/pores/</guid>
+      <description>P3rf3ctr00t CTF rev chalenge</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pores/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

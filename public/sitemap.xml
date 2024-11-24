@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/misc/</loc>
+    <lastmod>2024-11-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/p3rf3ctr00tctf/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -40,6 +46,18 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/pwn/</loc>
+    <lastmod>2024-11-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/rev/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -76,6 +94,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/juggl3r/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/web/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

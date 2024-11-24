@@ -2,7 +2,7 @@
 title: "Pores"
 summary: "P3rf3ctr00t CTF rev chalenge"
 categories: ["P3rf3ctr00tCTF","Blog",]
-tags: ["P3rf3ctr00tCTF"]
+tags: ["P3rf3ctr00tCTF","rev"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-23

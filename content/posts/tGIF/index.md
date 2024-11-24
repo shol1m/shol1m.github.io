@@ -2,7 +2,7 @@
 title: "tGIF"
 summary: "P3rf3ctr00tCTF misc chalenge"
 categories: ["P3rf3ctr00tCTF","Blog",]
-tags: ["P3rf3ctr00tCTF"]
+tags: ["P3rf3ctr00tCTF","misc"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-23

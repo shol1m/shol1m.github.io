@@ -14,12 +14,17 @@ title = "Sholim"
 
 [params.author]
   name = "Sholim"
-  image = "img/avatar.png"
+  image = "img/cover.png"
   headline = "Security analyst | ctf player" 
   #links = [{link = "https://blog.pwnus.site"}]
   bio = "Security analyst"
    links = [
      { linkedin = "https://www.linkedin.com/in/kevin-kimaiyo-29531a205" },
      { github = "https://github.com/Kevinsholim06" },
-     { x-twitter = "https://x.com/Shol1m" }
+     { x-twitter = "https://x.com/Shol1m" },
+     { team = "https://teamphantomctf.com" }
    ]
+
+[params.author.team]
+  name = "Team Phantom"
+  link = "https://teamphantomctf.com" # direct homepage link

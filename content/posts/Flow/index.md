@@ -2,7 +2,7 @@
 title: "Flow"
 summary: "P3rf3ctr00tCTF pwn chalenge"
 categories: ["P3rf3ctr00tCTF","Blog",]
-tags: ["P3rf3ctr00tCTF"]
+tags: ["P3rf3ctr00tCTF","pwn"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-11-23
