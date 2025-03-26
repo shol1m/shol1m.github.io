@@ -100,9 +100,8 @@ mainSections = ["posts"]
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
-
 [verification]
-  # google = ""
+  google = "HvVlcFJr15B_87e4ekJt2F-4SCyrsF1z5tv8MU8aqls"
   # bing = ""
   # pinterest = ""
   # yandex = ""
