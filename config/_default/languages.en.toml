@@ -8,7 +8,7 @@ title = "Sholim"
   isoCode = "en"
   rtl = false
   # logo = "img/logo.png"
-  description = "My awesome website"
+  description = "Sholim Blog"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
@@ -20,7 +20,7 @@ title = "Sholim"
   bio = "Security analyst"
    links = [
      { linkedin = "https://www.linkedin.com/in/kevin-kimaiyo-29531a205" },
-     { github = "https://github.com/Kevinsholim06" },
+     { github = "https://github.com/Shol1m" },
      { x-twitter = "https://x.com/Shol1m" },
      { team = "https://teamphantomctf.com" }
    ]
