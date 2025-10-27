@@ -201,7 +201,7 @@ This “double extension” technique (`.pdf.bat`) is a **common obfuscation** u
 This campaign uses a **malicious attachment delivered via phishing email**.
 
 **Answer:**  
-Technique: # Phishing: Spearphishing Attachment  
+Technique: Phishing: Spearphishing Attachment  
 **MITRE ID:** [T1566.001](https://attack.mitre.org/techniques/T1566/001/)
 
 ## Analysis Summary
