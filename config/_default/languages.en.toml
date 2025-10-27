@@ -8,7 +8,11 @@ title = "Sholim"
   isoCode = "en"
   rtl = false
   # logo = "img/logo.png"
+<<<<<<< HEAD
   description = "My Blog website"
+=======
+  description = "Sholim Blog"
+>>>>>>> 67bfa5cdda65e35fb7fe74d10110ff461f9fbd1f
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
