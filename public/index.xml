@@ -4,59 +4,51 @@
     <title>Sholim</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Sholim</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 Sholim</copyright>
-    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cypher</title>
+      <link>http://localhost:1313/posts/cypher_htb/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cypher_htb/</guid>
+      <description>HTB Season 7</description>
+    </item>
     <item>
       <title>linux cut command</title>
       <link>http://localhost:1313/posts/cut/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/cut/</guid>
       <description>A comprehensive guide to the linux cut command</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cut/cover.jpg" />
     </item>
-    
     <item>
       <title>Flow</title>
       <link>http://localhost:1313/posts/flow/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/flow/</guid>
-      <description>P3rf3ctr00tCTF pwn chalenge</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flow/cover.png" />
+      <description>P3rf3ctr00tCTF PWN chalenge</description>
     </item>
-    
     <item>
       <title>Pores</title>
       <link>http://localhost:1313/posts/pores/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/pores/</guid>
       <description>P3rf3ctr00t CTF rev chalenge</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pores/cover.png" />
     </item>
-    
     <item>
       <title>tGIF</title>
       <link>http://localhost:1313/posts/tgif/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/tgif/</guid>
       <description>P3rf3ctr00tCTF misc chalenge</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tgif/cover.png" />
     </item>
-    
     <item>
       <title>Juggl3r</title>
       <link>http://localhost:1313/posts/juggl3r/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/juggl3r/</guid>
       <description>Juggler challenge from blockctf</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/juggl3r/cover.png" />
     </item>
-    
   </channel>
 </rss>

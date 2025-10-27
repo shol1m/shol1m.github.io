@@ -13,7 +13,7 @@ enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["posts"]
-# robots = ""
+robots = ""
 
 [header]
   layout = "fixed" # valid options: basic, fixed
@@ -26,7 +26,7 @@ mainSections = ["posts"]
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "page" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/cover.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
