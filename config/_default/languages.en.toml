@@ -8,11 +8,7 @@ title = "Sholim"
   isoCode = "en"
   rtl = false
   # logo = "img/logo.png"
-<<<<<<< HEAD
   description = "My Blog website"
-=======
-  description = "Sholim Blog"
->>>>>>> 67bfa5cdda65e35fb7fe74d10110ff461f9fbd1f
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
@@ -26,9 +22,9 @@ title = "Sholim"
      { linkedin = "https://www.linkedin.com/in/kevin-kimaiyo-29531a205" },
      { github = "https://github.com/Shol1m" },
      { x-twitter = "https://x.com/Shol1m" },
-     { team = "https://teamphantomctf.com" }
+     { team = "https://blog.pwnus.site" }
    ]
 
 [params.author.team]
-  name = "Team Phantom"
-  link = "https://teamphantomctf.com" # direct homepage link
+  name = "Team Pwnus"
+  link = "https://blog.pwnus.site/" # direct homepage link
