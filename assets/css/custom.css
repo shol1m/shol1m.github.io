@@ -1,0 +1,27 @@
+/* --- Blowfish Layout Customizations --- */
+
+/* Make article container wider */
+.article-container {
+  max-width: 1200px !important; /* default ~900px */
+}
+
+/* Adjust the grid to give more space to the content */
+.article-body {
+  grid-template-columns: 3.5fr 1fr !important; /* content / ToC */
+}
+
+/* Narrow down the ToC width and font size slightly */
+.article-toc {
+  max-width: 260px !important;
+  font-size: 0.95rem !important;
+}
+
+/* On smaller screens, hide ToC to prevent clutter */
+@media (max-width: 1100px) {
+  .article-body {
+    grid-template-columns: 1fr !important;
+  }
+  .article-toc {
+    display: none !important;
+  }
+}

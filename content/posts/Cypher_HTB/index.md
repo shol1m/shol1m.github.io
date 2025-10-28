@@ -9,8 +9,7 @@ date: 2025-04-20
 draft: false
 ---
 
-# Hack The Box: Cypher Writeup — Neo4j Cypher Injection & BBOT Privilege Escalation
-
+# Hack The Box: Cypher Writeup 
 ---
 
 ## Challenge Overview

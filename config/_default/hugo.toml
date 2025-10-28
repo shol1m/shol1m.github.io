@@ -32,3 +32,6 @@ enableEmoji = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params.assets]
+  customCSS = ["css/custom.css"]

@@ -33,7 +33,7 @@ robots = ""
   showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -73,7 +73,7 @@ robots = ""
   showCards = true
   groupByYear = true
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = []
