@@ -1,7 +1,6 @@
-
 ---
 title: "Dream Job-2"
-summary: ""An in-depth Threat Intelligence investigation of the Hack The Box Sherlocks challenge _Dream Job-2_, focused on malware used by the Lazarus Group during Operation Dream Job. This analysis covers malware lineage, macro-based initial access, payload staging, and defensive detection opportunities"
+summary: "An in-depth Threat Intelligence investigation of the Hack The Box Sherlocks challenge _Dream Job-2_, focused on malware used by the Lazarus Group during Operation Dream Job. This analysis covers malware lineage, macro-based initial access, payload staging, and defensive detection opportunities"
 categories: ["HackTheBox", "Sherlocks", "Threat Intelligence", "Blog"]
 tags: ["HTB", "Sherlock", "Threat Intelligence"]
 date: 2025-10-04
