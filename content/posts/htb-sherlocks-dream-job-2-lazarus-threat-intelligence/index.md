@@ -3,7 +3,7 @@ title: "Dream Job-2"
 summary: "An in-depth Threat Intelligence investigation of the Hack The Box Sherlocks challenge _Dream Job-2_, focused on malware used by the Lazarus Group during Operation Dream Job. This analysis covers malware lineage, macro-based initial access, payload staging, and defensive detection opportunities"
 categories: ["HackTheBox", "Sherlocks", "Threat Intelligence", "Blog"]
 tags: ["HTB", "Sherlock", "Threat Intelligence"]
-date: 2025-10-04
+date: 2025-11-10
 draft: false
 
 ---
@@ -63,7 +63,7 @@ DRATzarus employs a classic anti-analysis technique by checking for debugging en
 The malware calls the Windows API function:
 
 `IsDebuggerPresent`
-![[Drazarus mitre.png]]
+![Drazarus mitre](Drazarusmitre.png)
 
 This suggests DRATzarus is designed to evade dynamic analysis and sandbox execution—consistent with Lazarus’ focus on operational security and analyst evasion.
 
@@ -94,7 +94,7 @@ Layered encryption indicates an effort to evade network inspection and signature
 
  **Finding**  
 Torisma samples are obfuscated using **Iz4 compression**.
-![[Torisma mitre.png]]
+![Torisma mitre](Torismamitre.png)
 **Analyst insight:**  
 [Packing](https://attack.mitre.org/techniques/T1027/002/) complicates static analysis and slows reverse engineering efforts—an expected tactic for advanced threat actors.
 
@@ -131,7 +131,7 @@ The executable (`InternalViewer.exe`) is the primary suspicious artifact.
 ### Original Filename Recovery
 
 Using metadata analysis (`exiftool`), I identified the executable’s original name.
-![[exiftool-internalviewer.png]]
+![exiftool-internalviewer](exiftool-internalviewer.png)
 
 `InternalViewer.exe` was originally named:
 
@@ -193,7 +193,7 @@ This confirms a **multi-stage phishing chain**, where the initial document serve
 Using `exiftool`, I extracted document metadata.
 
 **Findings**
-![[exiftool salary_lockhead.png]]
+![exiftool salary_lockhead.png](exiftoolsalary_lockhead.png)
 - **Author:** Mickey
     
 - **Last Modified By:** Challenger
