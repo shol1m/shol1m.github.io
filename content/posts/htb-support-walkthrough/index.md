@@ -7,9 +7,9 @@ tags: ["HackTheBox","ActiveDirectory","Windows","RBCD","SMB","Kerberos","BloodHo
 #showSummary: true
 date: 2026-05-18
 draft: true
+
 ---
-# Hack The Box: Support Writeup
----
+
 ## Machine Overview
 - **Name:** Support
 - **OS:** Windows Server 2022
