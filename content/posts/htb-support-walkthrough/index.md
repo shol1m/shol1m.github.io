@@ -10,6 +10,10 @@ draft: false
 
 ---
 
+# Hack The Box: Support Writeup
+
+---
+
 ## Machine Overview
 - **Name:** Support
 - **OS:** Windows Server 2022

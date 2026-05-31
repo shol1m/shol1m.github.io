@@ -7,8 +7,9 @@ tags: ["HackTheBox","Linux","JWT","CVE-2026-29000","pac4j","SSHCertificate","Hyd
 #showSummary: true
 date: 2026-05-20
 draft: false
+
 ---
-# HTB: Principal — JWT Bypass, Credential Reuse & SSH Certificate Forgery
+# HTB: Principal Walkthrough
 ---
 ## Machine Overview
 - **Name:** Principal

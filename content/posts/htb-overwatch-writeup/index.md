@@ -7,9 +7,11 @@ tags: ["HackTheBox", "ActiveDirectory", "Windows", "WCF", "MSSQL", "SQLi", "ADID
 #showSummary: true
 date: 2026-05-10
 draft: false
+
 ---
 
 # Hack The Box: Overwatch Writeup
+
 ---
 
 ## Machine Overview
@@ -18,9 +20,10 @@ draft: false
 - **Difficulty:** Medium
 
 Overwatch is a Medium difficulty Windows Active Directory machine featuring a custom .NET WCF monitoring service and a misconfigured SMB share exposing internal binaries. Initial access is achieved through reverse engineering a .NET application that reveals hardcoded SQL Server credentials. Further enumeration exposes a linked SQL Server instance and misconfigured Active Directory permissions that allow DNS record creation. This enables ADIDNS poisoning to redirect a failed SQL connection, resulting in credential leakage via NTLM authentication. After obtaining WinRM access as a low-privileged user, enumeration of the WCF service reveals a PowerShell injection vulnerability in the `KillProcess` method. Exploiting this leads to code execution as SYSTEM and full domain compromise.
+
 ---
 
-# Enum
+## Reconnaisance
 ## nmap
 As usual I started with nmap scan
 ```sh
