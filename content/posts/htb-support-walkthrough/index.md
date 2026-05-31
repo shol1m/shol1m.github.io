@@ -1,19 +1,19 @@
 ---
-title: "Support"
+title: "HTB Support Writeup"
 summary: "An Easy Windows Active Directory machine involving anonymous SMB enumeration, .NET binary reverse engineering, LDAP credential extraction, and a Resource-Based Constrained Delegation (RBCD) attack to achieve Domain Admin."
 categories: ["HackTheBox","Blog"]
 tags: ["HackTheBox","ActiveDirectory","Windows","RBCD","SMB",".NET","LDAP","Kerberos","BloodHound","WinRM"]
 #externalUrl: ""
 #showSummary: true
 date: 2026-05-18
-draft: false
+draft: true
 ---
 # Hack The Box: Support Writeup
 ---
 ## Machine Overview
 - **Name:** Support
 - **OS:** Windows Server 2022
-- **Difficulty:** Easy
+- **Difficulty:** Medium
 
 Support is an Easy difficulty Windows machine that features an SMB share allowing anonymous authentication. After connecting to the share, a custom executable is discovered that queries the machine's LDAP server for available users. Through reverse engineering, the password the binary uses to bind to LDAP is identified and used to make further LDAP queries. A user called `support` is found whose `info` field contains their password in plaintext, allowing a WinRM connection. Once on the machine, `BloodHound` reveals that the `Shared Support Accounts` group — which `support` is a member of — holds `GenericAll` privileges on the Domain Controller. A Resource-Based Constrained Delegation (RBCD) attack is then performed, resulting in a shell as `NT Authority\System`.
 

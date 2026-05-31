@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Forensics on Sholim</title>
+    <link>https://shol1m.github.io/categories/digital-forensics/</link>
+    <description>Recent content in Digital Forensics on Sholim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shol1m.github.io/categories/digital-forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TryHack3M: Bricks Heist</title>
+      <link>https://shol1m.github.io/posts/bricksheist/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://shol1m.github.io/posts/bricksheist/</guid>
+      <description>Crack the code, command the exploit! Dive into the heart of the system with just an RCE CVE as your key.</description>
+    </item>
+  </channel>
+</rss>

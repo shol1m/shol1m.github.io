@@ -2,18 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HackTheBox on Sholim</title>
-    <link>http://localhost:1313/categories/hackthebox/</link>
+    <link>https://shol1m.github.io/categories/hackthebox/</link>
     <description>Recent content in HackTheBox on Sholim</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shol1m.github.io/categories/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principal</title>
+      <link>https://shol1m.github.io/posts/htb-principal-walkthrough/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://shol1m.github.io/posts/htb-principal-walkthrough/</guid>
+      <description>An Easy Windows Active Directory machine involving anonymous SMB enumeration, .NET binary reverse engineering, LDAP credential extraction, and a Resource-Based Constrained Delegation (RBCD) attack to achieve Domain Admin.</description>
+    </item>
+    <item>
+      <title>Dream Job-2</title>
+      <link>https://shol1m.github.io/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://shol1m.github.io/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</guid>
+      <description>An in-depth Threat Intelligence investigation of the Hack The Box Sherlocks challenge &lt;em&gt;Dream Job-2&lt;/em&gt;, focused on malware used by the Lazarus Group during Operation Dream Job. This analysis covers malware lineage, macro-based initial access, payload staging, and defensive detection opportunities</description>
+    </item>
+    <item>
+      <title>HookFlare</title>
+      <link>https://shol1m.github.io/posts/htb-sherlocks-hookflare-android-banking-malware/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://shol1m.github.io/posts/htb-sherlocks-hookflare-android-banking-malware/</guid>
+      <description>An Android DFIR investigation of the HTB Sherlocks challenge HookFlare, reconstructing an SMS-based phishing attack, malicious app behavior, permission abuse, and encrypted data exfiltration.</description>
+    </item>
+    <item>
+      <title>Sherlock: PhishNet (HTB Challenge)</title>
+      <link>https://shol1m.github.io/posts/phishnet/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://shol1m.github.io/posts/phishnet/</guid>
+      <description>An in-depth forensic investigation of a phishing email from the HTB Sherlocks series. We analyze email headers, SPF validation, and a disguised malicious attachment used in a spearphishing attack.</description>
+    </item>
     <item>
       <title>Cypher</title>
-      <link>http://localhost:1313/posts/cypher_htb/</link>
+      <link>https://shol1m.github.io/posts/cypher_htb/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cypher_htb/</guid>
-      <description>HTB Season 7</description>
+      <guid>https://shol1m.github.io/posts/cypher_htb/</guid>
+      <description>A full walkthrough of the Hack The Box &amp;lsquo;Cypher&amp;rsquo; challenge from Season 7</description>
     </item>
   </channel>
 </rss>
