@@ -2,7 +2,7 @@
 title: "HTB Support Writeup"
 summary: "An Easy Windows Active Directory machine involving anonymous SMB enumeration, .NET binary reverse engineering, LDAP credential extraction, and a Resource-Based Constrained Delegation (RBCD) attack to achieve Domain Admin."
 categories: ["HackTheBox","Blog"]
-tags: ["HackTheBox","ActiveDirectory","Windows","RBCD","SMB",".NET","LDAP","Kerberos","BloodHound","WinRM"]
+tags: ["HackTheBox","ActiveDirectory","Windows","RBCD","SMB","Kerberos","BloodHound"]
 #externalUrl: ""
 #showSummary: true
 date: 2026-05-18
