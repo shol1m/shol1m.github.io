@@ -25,3 +25,9 @@
     display: none !important;
   }
 }
+
+/* Force the text content and article div to expand and fill the wide container */
+.prose,
+.article-content {
+  max-width: none !important;
+}
