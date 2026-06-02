@@ -2,12 +2,12 @@
 
 /* Make article container wider */
 .article-container {
-  max-width: 1200px !important; /* default ~900px */
+  max-width: 1800px !important; /* default ~900px */
 }
 
 /* Adjust the grid to give more space to the content */
 .article-body {
-  grid-template-columns: 3.5fr 1fr !important; /* content / ToC */
+  grid-template-columns: 5fr 1fr !important; /* content / ToC */
 }
 
 /* Narrow down the ToC width and font size slightly */

@@ -1,12 +1,12 @@
 ---
 title: "HTB Overwatch Writeup"
-summary: "A Medium Windows Active Directory machine involving .NET WCF service exploitation via PowerShell injection, SQL Server credential discovery, and DNS-based ADIDNS hijacking to obtain credentials and escalate to SYSTEM."
+summary: "An Active Directory machine involving .NET WCF exploitation, SQL credential discovery, and ADIDNS hijacking leading to SYSTEM access."
 categories: ["HackTheBox", "Blog"]
 tags: ["HackTheBox", "ActiveDirectory", "Windows", "WCF", "MSSQL", "SQLi", "ADIDNS"]
 #externalUrl: ""
 #showSummary: true
 date: 2026-05-10
-draft: false
+draft: true
 
 ---
 

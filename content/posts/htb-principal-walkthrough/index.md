@@ -1,6 +1,6 @@
 ---
 title: "HackTheBox Principal walkthrough"
-summary: "A Medium difficulty Linux machine involving a JWT authentication bypass via CVE-2026-29000, credential reuse to gain a foothold as a service account, and SSH certificate forgery using a readable CA private key to escalate to root."
+summary: "A Linux machine involving JWT authentication bypass, credential reuse, and SSH CA key abuse to gain root access."
 categories: ["HackTheBox","Blog"]
 tags: ["HackTheBox","Linux","JWT","CVE-2026-29000","pac4j","SSHCertificate","Hydra",]
 #externalUrl: ""

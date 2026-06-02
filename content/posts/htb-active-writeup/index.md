@@ -1,6 +1,6 @@
 ---
 title: "HTB Active Writeup"
-summary: "An Easy difficulty Windows Active Directory machine involving Group Policy Preferences password disclosure, Kerberoasting, and Domain Administrator compromise."
+summary: "An Active Directory machine involving GPP password leakage, Kerberoasting, and domain admin compromise."
 categories: ["HackTheBox","Blog"]
 tags: ["HackTheBox","Windows","ActiveDirectory","SMB","Kerberoasting","Impacket","Hashcat","PsExec"]
 #externalUrl: ""

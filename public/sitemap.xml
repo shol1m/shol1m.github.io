@@ -1,266 +1,347 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shol1m.github.io/tags/.net/</loc>
+    <loc>http://localhost:1313/tags/activedirectory/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/blog/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/hackthebox/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/hackthebox/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/hashcat/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/htb-active-writeup/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/impacket/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/kerberoasting/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/psexec/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/smb/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/bloodhound/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/cve-2026-29000/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/htb-cicada-writeup/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/htb-principal-walkthrough/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/hydra/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/jwt/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/pac4j/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/sebackupprivilege/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/sshcertificate/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/htb-support-walkthrough/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/activedirectory/</loc>
+    <loc>http://localhost:1313/tags/kerberos/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/blog/</loc>
+    <loc>http://localhost:1313/tags/rbcd/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/bloodhound/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/adidns/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/htb-overwatch-writeup/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/hackthebox/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/mssql/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/hackthebox/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/sqli/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/kerberos/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/wcf/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/ldap/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/posts/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/posts/htb-principal-walkthrough/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/tags/rbcd/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/tags/smb/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/tags/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/tags/windows/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/tags/winrm/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://shol1m.github.io/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</loc>
+    <loc>http://localhost:1313/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/htb/</loc>
+    <loc>http://localhost:1313/tags/htb/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/sherlock/</loc>
+    <loc>http://localhost:1313/tags/sherlock/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/sherlocks/</loc>
+    <loc>http://localhost:1313/categories/sherlocks/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/threat-intelligence/</loc>
+    <loc>http://localhost:1313/categories/threat-intelligence/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/threat-intelligence/</loc>
+    <loc>http://localhost:1313/tags/threat-intelligence/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/dfir/</loc>
+    <loc>http://localhost:1313/tags/dfir/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/email-analysis/</loc>
+    <loc>http://localhost:1313/categories/email-analysis/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/htb-sherlocks-hookflare-android-banking-malware/</loc>
+    <loc>http://localhost:1313/posts/htb-sherlocks-hookflare-android-banking-malware/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/phishing/</loc>
+    <loc>http://localhost:1313/tags/phishing/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/digital-forensics/</loc>
+    <loc>http://localhost:1313/categories/digital-forensics/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/digital-forensics/</loc>
+    <loc>http://localhost:1313/tags/digital-forensics/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/phishnet/</loc>
+    <loc>http://localhost:1313/posts/phishnet/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/soc/</loc>
+    <loc>http://localhost:1313/tags/soc/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/bricksheist/</loc>
+    <loc>http://localhost:1313/posts/bricksheist/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/tryhackme/</loc>
+    <loc>http://localhost:1313/categories/tryhackme/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/tryhackme/</loc>
+    <loc>http://localhost:1313/tags/tryhackme/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/web/</loc>
+    <loc>http://localhost:1313/tags/web/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/web-exploitation/</loc>
+    <loc>http://localhost:1313/categories/web-exploitation/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/cypher_htb/</loc>
+    <loc>http://localhost:1313/posts/cypher_htb/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/cheat-sheets/</loc>
+    <loc>http://localhost:1313/categories/cheat-sheets/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/cut/</loc>
+    <loc>http://localhost:1313/posts/cut/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/flow/</loc>
+    <loc>http://localhost:1313/posts/flow/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/misc/</loc>
+    <loc>http://localhost:1313/tags/misc/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/p3rf3ctr00tctf/</loc>
+    <loc>http://localhost:1313/categories/p3rf3ctr00tctf/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/p3rf3ctr00tctf/</loc>
+    <loc>http://localhost:1313/tags/p3rf3ctr00tctf/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/pores/</loc>
+    <loc>http://localhost:1313/posts/pores/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/pwn/</loc>
+    <loc>http://localhost:1313/tags/pwn/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/rev/</loc>
+    <loc>http://localhost:1313/tags/rev/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/tgif/</loc>
+    <loc>http://localhost:1313/posts/tgif/</loc>
     <lastmod>2024-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/categories/blockctf/</loc>
+    <loc>http://localhost:1313/categories/blockctf/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/tags/blockctf/</loc>
+    <loc>http://localhost:1313/tags/blockctf/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/juggl3r/</loc>
+    <loc>http://localhost:1313/posts/juggl3r/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/posts/cypher/</loc>
+    <loc>http://localhost:1313/posts/cypher/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://shol1m.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

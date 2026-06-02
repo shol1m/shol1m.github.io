@@ -1,180 +1,269 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Sholim</title>
-    <link>https://shol1m.github.io/tags/</link>
-    <description>Recent content in Tags on Sholim</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shol1m.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>.NET</title>
-      <link>https://shol1m.github.io/tags/.net/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/.net/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ActiveDirectory</title>
-      <link>https://shol1m.github.io/tags/activedirectory/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/activedirectory/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>BloodHound</title>
-      <link>https://shol1m.github.io/tags/bloodhound/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/bloodhound/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HackTheBox</title>
-      <link>https://shol1m.github.io/tags/hackthebox/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/hackthebox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kerberos</title>
-      <link>https://shol1m.github.io/tags/kerberos/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/kerberos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LDAP</title>
-      <link>https://shol1m.github.io/tags/ldap/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/ldap/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>RBCD</title>
-      <link>https://shol1m.github.io/tags/rbcd/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/rbcd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SMB</title>
-      <link>https://shol1m.github.io/tags/smb/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/smb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows</title>
-      <link>https://shol1m.github.io/tags/windows/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/windows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WinRM</title>
-      <link>https://shol1m.github.io/tags/winrm/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/winrm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTB</title>
-      <link>https://shol1m.github.io/tags/htb/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/htb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sherlock</title>
-      <link>https://shol1m.github.io/tags/sherlock/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/sherlock/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Threat Intelligence</title>
-      <link>https://shol1m.github.io/tags/threat-intelligence/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/threat-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DFIR</title>
-      <link>https://shol1m.github.io/tags/dfir/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/dfir/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phishing</title>
-      <link>https://shol1m.github.io/tags/phishing/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/phishing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://shol1m.github.io/tags/digital-forensics/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/digital-forensics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SOC</title>
-      <link>https://shol1m.github.io/tags/soc/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/soc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TryHackMe</title>
-      <link>https://shol1m.github.io/tags/tryhackme/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/tryhackme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>https://shol1m.github.io/tags/web/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/web/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Misc</title>
-      <link>https://shol1m.github.io/tags/misc/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/misc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>P3rf3ctr00tCTF</title>
-      <link>https://shol1m.github.io/tags/p3rf3ctr00tctf/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/p3rf3ctr00tctf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pwn</title>
-      <link>https://shol1m.github.io/tags/pwn/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/pwn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rev</title>
-      <link>https://shol1m.github.io/tags/rev/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/rev/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockctf</title>
-      <link>https://shol1m.github.io/tags/blockctf/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/tags/blockctf/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on Sholim</title>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on Sholim</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ActiveDirectory</title>
+				<link>http://localhost:1313/tags/activedirectory/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/activedirectory/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HackTheBox</title>
+				<link>http://localhost:1313/tags/hackthebox/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hackthebox/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hashcat</title>
+				<link>http://localhost:1313/tags/hashcat/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hashcat/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Impacket</title>
+				<link>http://localhost:1313/tags/impacket/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/impacket/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kerberoasting</title>
+				<link>http://localhost:1313/tags/kerberoasting/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/kerberoasting/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PsExec</title>
+				<link>http://localhost:1313/tags/psexec/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/psexec/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SMB</title>
+				<link>http://localhost:1313/tags/smb/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/smb/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Windows</title>
+				<link>http://localhost:1313/tags/windows/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/windows/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>BloodHound</title>
+				<link>http://localhost:1313/tags/bloodhound/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/bloodhound/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>CVE-2026-29000</title>
+				<link>http://localhost:1313/tags/cve-2026-29000/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/cve-2026-29000/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hydra</title>
+				<link>http://localhost:1313/tags/hydra/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hydra/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>JWT</title>
+				<link>http://localhost:1313/tags/jwt/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jwt/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Linux</title>
+				<link>http://localhost:1313/tags/linux/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/linux/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pac4j</title>
+				<link>http://localhost:1313/tags/pac4j/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pac4j/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SeBackupPrivilege</title>
+				<link>http://localhost:1313/tags/sebackupprivilege/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sebackupprivilege/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SSHCertificate</title>
+				<link>http://localhost:1313/tags/sshcertificate/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sshcertificate/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kerberos</title>
+				<link>http://localhost:1313/tags/kerberos/</link>
+				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/kerberos/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>RBCD</title>
+				<link>http://localhost:1313/tags/rbcd/</link>
+				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/rbcd/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ADIDNS</title>
+				<link>http://localhost:1313/tags/adidns/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/adidns/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MSSQL</title>
+				<link>http://localhost:1313/tags/mssql/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/mssql/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SQLi</title>
+				<link>http://localhost:1313/tags/sqli/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sqli/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>WCF</title>
+				<link>http://localhost:1313/tags/wcf/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/wcf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HTB</title>
+				<link>http://localhost:1313/tags/htb/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/htb/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sherlock</title>
+				<link>http://localhost:1313/tags/sherlock/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sherlock/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Threat Intelligence</title>
+				<link>http://localhost:1313/tags/threat-intelligence/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/threat-intelligence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>DFIR</title>
+				<link>http://localhost:1313/tags/dfir/</link>
+				<pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/dfir/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Phishing</title>
+				<link>http://localhost:1313/tags/phishing/</link>
+				<pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/phishing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Digital Forensics</title>
+				<link>http://localhost:1313/tags/digital-forensics/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/digital-forensics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SOC</title>
+				<link>http://localhost:1313/tags/soc/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/soc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TryHackMe</title>
+				<link>http://localhost:1313/tags/tryhackme/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tryhackme/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Web</title>
+				<link>http://localhost:1313/tags/web/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/web/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Misc</title>
+				<link>http://localhost:1313/tags/misc/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/misc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>P3rf3ctr00tCTF</title>
+				<link>http://localhost:1313/tags/p3rf3ctr00tctf/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/p3rf3ctr00tctf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pwn</title>
+				<link>http://localhost:1313/tags/pwn/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pwn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rev</title>
+				<link>http://localhost:1313/tags/rev/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/rev/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blockctf</title>
+				<link>http://localhost:1313/tags/blockctf/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/blockctf/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

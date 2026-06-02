@@ -1,96 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Sholim</title>
-    <link>https://shol1m.github.io/posts/</link>
-    <description>Recent content in Posts on Sholim</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shol1m.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Principal</title>
-      <link>https://shol1m.github.io/posts/htb-principal-walkthrough/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/htb-principal-walkthrough/</guid>
-      <description>An Easy Windows Active Directory machine involving anonymous SMB enumeration, .NET binary reverse engineering, LDAP credential extraction, and a Resource-Based Constrained Delegation (RBCD) attack to achieve Domain Admin.</description>
-    </item>
-    <item>
-      <title>Dream Job-2</title>
-      <link>https://shol1m.github.io/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</guid>
-      <description>An in-depth Threat Intelligence investigation of the Hack The Box Sherlocks challenge &lt;em&gt;Dream Job-2&lt;/em&gt;, focused on malware used by the Lazarus Group during Operation Dream Job. This analysis covers malware lineage, macro-based initial access, payload staging, and defensive detection opportunities</description>
-    </item>
-    <item>
-      <title>HookFlare</title>
-      <link>https://shol1m.github.io/posts/htb-sherlocks-hookflare-android-banking-malware/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/htb-sherlocks-hookflare-android-banking-malware/</guid>
-      <description>An Android DFIR investigation of the HTB Sherlocks challenge HookFlare, reconstructing an SMS-based phishing attack, malicious app behavior, permission abuse, and encrypted data exfiltration.</description>
-    </item>
-    <item>
-      <title>Sherlock: PhishNet (HTB Challenge)</title>
-      <link>https://shol1m.github.io/posts/phishnet/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/phishnet/</guid>
-      <description>An in-depth forensic investigation of a phishing email from the HTB Sherlocks series. We analyze email headers, SPF validation, and a disguised malicious attachment used in a spearphishing attack.</description>
-    </item>
-    <item>
-      <title>TryHack3M: Bricks Heist</title>
-      <link>https://shol1m.github.io/posts/bricksheist/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/bricksheist/</guid>
-      <description>Crack the code, command the exploit! Dive into the heart of the system with just an RCE CVE as your key.</description>
-    </item>
-    <item>
-      <title>Cypher</title>
-      <link>https://shol1m.github.io/posts/cypher_htb/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/cypher_htb/</guid>
-      <description>A full walkthrough of the Hack The Box &amp;lsquo;Cypher&amp;rsquo; challenge from Season 7</description>
-    </item>
-    <item>
-      <title>linux cut command</title>
-      <link>https://shol1m.github.io/posts/cut/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/cut/</guid>
-      <description>A comprehensive guide to the linux cut command</description>
-    </item>
-    <item>
-      <title>Flow</title>
-      <link>https://shol1m.github.io/posts/flow/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/flow/</guid>
-      <description>P3rf3ctr00tCTF PWN chalenge</description>
-    </item>
-    <item>
-      <title>Pores</title>
-      <link>https://shol1m.github.io/posts/pores/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/pores/</guid>
-      <description>P3rf3ctr00t CTF rev chalenge</description>
-    </item>
-    <item>
-      <title>tGIF</title>
-      <link>https://shol1m.github.io/posts/tgif/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/tgif/</guid>
-      <description>P3rf3ctr00tCTF misc chalenge</description>
-    </item>
-    <item>
-      <title>Juggl3r</title>
-      <link>https://shol1m.github.io/posts/juggl3r/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/juggl3r/</guid>
-      <description>Juggler challenge from blockctf</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://shol1m.github.io/posts/cypher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/cypher/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Posts on Sholim</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Sholim</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HTB Active Writeup</title>
+				<link>http://localhost:1313/posts/htb-active-writeup/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-active-writeup/</guid>
+				<description>An Active Directory machine involving GPP password leakage, Kerberoasting, and domain admin compromise.</description>
+			</item>
+			<item>
+				<title>HackTheBox Cicada Writeup</title>
+				<link>http://localhost:1313/posts/htb-cicada-writeup/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-cicada-writeup/</guid>
+				<description>A Medium difficulty Active Directory machine involving SMB enumeration, credential exposure, and privilege abuse leading to full domain compromise.</description>
+			</item>
+			<item>
+				<title>HackTheBox Principal walkthrough</title>
+				<link>http://localhost:1313/posts/htb-principal-walkthrough/</link>
+				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-principal-walkthrough/</guid>
+				<description>A Linux machine involving JWT authentication bypass, credential reuse, and SSH CA key abuse to gain root access.</description>
+			</item>
+			<item>
+				<title>HTB Support Writeup</title>
+				<link>http://localhost:1313/posts/htb-support-walkthrough/</link>
+				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-support-walkthrough/</guid>
+				<description>An Active Directory machine involving SMB enumeration, credential extraction, and RBCD-based domain privilege escalation.</description>
+			</item>
+			<item>
+				<title>HTB Overwatch Writeup</title>
+				<link>http://localhost:1313/posts/htb-overwatch-writeup/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-overwatch-writeup/</guid>
+				<description>An Active Directory machine involving .NET WCF exploitation, SQL credential discovery, and ADIDNS hijacking leading to SYSTEM access.</description>
+			</item>
+			<item>
+				<title>Dream Job-2</title>
+				<link>http://localhost:1313/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-sherlocks-dream-job-2-lazarus-threat-intelligence/</guid>
+				<description>An in-depth Threat Intelligence investigation of the Hack The Box Sherlocks challenge &lt;em&gt;Dream Job-2&lt;/em&gt;, focused on malware used by the Lazarus Group during Operation Dream Job. This analysis covers malware lineage, macro-based initial access, payload staging, and defensive detection opportunities</description>
+			</item>
+			<item>
+				<title>HookFlare</title>
+				<link>http://localhost:1313/posts/htb-sherlocks-hookflare-android-banking-malware/</link>
+				<pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-sherlocks-hookflare-android-banking-malware/</guid>
+				<description>An Android DFIR investigation of the HTB Sherlocks challenge HookFlare, reconstructing an SMS-based phishing attack, malicious app behavior, permission abuse, and encrypted data exfiltration.</description>
+			</item>
+			<item>
+				<title>Sherlock: PhishNet (HTB Challenge)</title>
+				<link>http://localhost:1313/posts/phishnet/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/phishnet/</guid>
+				<description>An in-depth forensic investigation of a phishing email from the HTB Sherlocks series. We analyze email headers, SPF validation, and a disguised malicious attachment used in a spearphishing attack.</description>
+			</item>
+			<item>
+				<title>TryHack3M: Bricks Heist</title>
+				<link>http://localhost:1313/posts/bricksheist/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/bricksheist/</guid>
+				<description>Crack the code, command the exploit! Dive into the heart of the system with just an RCE CVE as your key.</description>
+			</item>
+			<item>
+				<title>Cypher</title>
+				<link>http://localhost:1313/posts/cypher_htb/</link>
+				<pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/cypher_htb/</guid>
+				<description>A full walkthrough of the Hack The Box &amp;lsquo;Cypher&amp;rsquo; challenge from Season 7</description>
+			</item>
+			<item>
+				<title>linux cut command</title>
+				<link>http://localhost:1313/posts/cut/</link>
+				<pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/cut/</guid>
+				<description>A comprehensive guide to the linux cut command</description>
+			</item>
+			<item>
+				<title>Flow</title>
+				<link>http://localhost:1313/posts/flow/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/flow/</guid>
+				<description>P3rf3ctr00tCTF PWN chalenge</description>
+			</item>
+			<item>
+				<title>Pores</title>
+				<link>http://localhost:1313/posts/pores/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/pores/</guid>
+				<description>P3rf3ctr00t CTF rev chalenge</description>
+			</item>
+			<item>
+				<title>tGIF</title>
+				<link>http://localhost:1313/posts/tgif/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/tgif/</guid>
+				<description>P3rf3ctr00tCTF misc chalenge</description>
+			</item>
+			<item>
+				<title>Juggl3r</title>
+				<link>http://localhost:1313/posts/juggl3r/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/juggl3r/</guid>
+				<description>Juggler challenge from blockctf</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/posts/cypher/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/cypher/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

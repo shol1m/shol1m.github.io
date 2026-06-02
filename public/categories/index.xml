@@ -1,89 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Sholim</title>
-    <link>https://shol1m.github.io/categories/</link>
-    <description>Recent content in Categories on Sholim</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shol1m.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog</title>
-      <link>https://shol1m.github.io/categories/blog/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HackTheBox</title>
-      <link>https://shol1m.github.io/categories/hackthebox/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/hackthebox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sherlocks</title>
-      <link>https://shol1m.github.io/categories/sherlocks/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/sherlocks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Threat Intelligence</title>
-      <link>https://shol1m.github.io/categories/threat-intelligence/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/threat-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Email Analysis</title>
-      <link>https://shol1m.github.io/categories/email-analysis/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/email-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://shol1m.github.io/categories/digital-forensics/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/digital-forensics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TryHackMe</title>
-      <link>https://shol1m.github.io/categories/tryhackme/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/tryhackme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Exploitation</title>
-      <link>https://shol1m.github.io/categories/web-exploitation/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/web-exploitation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cheat Sheets</title>
-      <link>https://shol1m.github.io/categories/cheat-sheets/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/cheat-sheets/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>P3rf3ctr00tCTF</title>
-      <link>https://shol1m.github.io/categories/p3rf3ctr00tctf/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/p3rf3ctr00tctf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockctf</title>
-      <link>https://shol1m.github.io/categories/blockctf/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/categories/blockctf/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Categories on Sholim</title>
+		<link>http://localhost:1313/categories/</link>
+		<description>Recent content in Categories on Sholim</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blog</title>
+				<link>http://localhost:1313/categories/blog/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/blog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HackTheBox</title>
+				<link>http://localhost:1313/categories/hackthebox/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/hackthebox/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sherlocks</title>
+				<link>http://localhost:1313/categories/sherlocks/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/sherlocks/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Threat Intelligence</title>
+				<link>http://localhost:1313/categories/threat-intelligence/</link>
+				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/threat-intelligence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Email Analysis</title>
+				<link>http://localhost:1313/categories/email-analysis/</link>
+				<pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/email-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Digital Forensics</title>
+				<link>http://localhost:1313/categories/digital-forensics/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/digital-forensics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TryHackMe</title>
+				<link>http://localhost:1313/categories/tryhackme/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/tryhackme/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Web Exploitation</title>
+				<link>http://localhost:1313/categories/web-exploitation/</link>
+				<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/web-exploitation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cheat Sheets</title>
+				<link>http://localhost:1313/categories/cheat-sheets/</link>
+				<pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/cheat-sheets/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>P3rf3ctr00tCTF</title>
+				<link>http://localhost:1313/categories/p3rf3ctr00tctf/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/p3rf3ctr00tctf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blockctf</title>
+				<link>http://localhost:1313/categories/blockctf/</link>
+				<pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/categories/blockctf/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

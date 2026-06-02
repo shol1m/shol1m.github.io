@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kerberoasting on Sholim</title>
+		<link>http://localhost:1313/tags/kerberoasting/</link>
+		<description>Recent content in Kerberoasting on Sholim</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/kerberoasting/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HTB Active Writeup</title>
+				<link>http://localhost:1313/posts/htb-active-writeup/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/htb-active-writeup/</guid>
+				<description>An Active Directory machine involving GPP password leakage, Kerberoasting, and domain admin compromise.</description>
+			</item>
+	</channel>
+</rss>

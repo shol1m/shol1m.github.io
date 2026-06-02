@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pwn on Sholim</title>
-    <link>https://shol1m.github.io/tags/pwn/</link>
-    <description>Recent content in Pwn on Sholim</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shol1m.github.io/tags/pwn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Flow</title>
-      <link>https://shol1m.github.io/posts/flow/</link>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://shol1m.github.io/posts/flow/</guid>
-      <description>P3rf3ctr00tCTF PWN chalenge</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Pwn on Sholim</title>
+		<link>http://localhost:1313/tags/pwn/</link>
+		<description>Recent content in Pwn on Sholim</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/pwn/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Flow</title>
+				<link>http://localhost:1313/posts/flow/</link>
+				<pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/flow/</guid>
+				<description>P3rf3ctr00tCTF PWN chalenge</description>
+			</item>
+	</channel>
 </rss>
