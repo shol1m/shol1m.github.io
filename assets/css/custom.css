@@ -3,12 +3,19 @@
 /* Make article container wider */
 .article-container {
   max-width: 1800px !important; /* default ~900px */
+  max-width: 90% !important;    /* Use percentage for true wide-screen feel */
+  width: 1800px !important;     /* Target specific width */
+  padding-left: 1rem !important;  /* Reduce default large horizontal padding */
+  padding-right: 1rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 /* Adjust the grid to give more space to the content */
 .article-body {
   grid-template-columns: 5fr 1fr !important; /* content / ToC */
 }
+
 
 /* Narrow down the ToC width and font size slightly */
 .article-toc {
@@ -30,4 +37,15 @@
 .prose,
 .article-content {
   max-width: none !important;
+}
+
+.article-content,
+.max-w-prose {
+  max-width: 100% !important;   /* Force the text wrapper to 100% of the container */
+  width: 100% !important;
+}
+
+/* Remove any additional internal padding that might be shrinking the content area */
+.article-body {
+  padding-left: 0 !important;
 }
