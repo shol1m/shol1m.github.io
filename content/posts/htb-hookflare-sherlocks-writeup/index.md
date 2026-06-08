@@ -1,10 +1,10 @@
 ---
 title: "HookFlare"
-summary: "An Android DFIR investigation of the HTB Sherlocks challenge HookFlare, reconstructing an SMS-based phishing attack, malicious app behavior, permission abuse, and encrypted data exfiltration."
+summary: "A Sherlocks android DFIR Challenge."
 categories: ["HackTheBox", "Sherlocks", "Email Analysis", "Blog"]
-tags: ["HTB", "Sherlock", "Phishing", "DFIR"]
+tags: ["HTB", "Sherlocks", "Phishing", "DFIR"]
 date: 2025-10-04
-draft: false
+draft: true
 
 ---
 
@@ -83,7 +83,7 @@ com.s1rx58.s1rbank 10078 0 /data/user/0/com.s1rx58.s1rbank default:targetSdkVers
 </app-ops>
 
 ```
-Convert tje tie to UTC
+Convert the time to UTC
 ```sql
 ❯ echo "SELECT datetime(1738429638690/1000, 'unixepoch');" | sqlite3
 
@@ -151,7 +151,7 @@ Lets check for any other url
 
 ```
 
-checking ore in the file `h.java` we ee the ethod that redirects to the new url
+checking ore in the file `h.java` we ese the method that redirects to the new url
 ```java
     public static String i0(byte[] bArr, String str) throws IOException {
         try {
@@ -242,7 +242,7 @@ we can use cyberchef
     - **Input**: Raw
         
     - **Output**: Raw
-![card info](card-info.png)
+![[card-info.png]]
 we get the info 
 ```json
 Full Name: PHILLIP KEELING
